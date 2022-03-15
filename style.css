@@ -1,0 +1,13 @@
+h1 {
+  font-size: 1, 5rem;
+  font-color: red;
+  /* cascating style sheet*/
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  display: grid;
+  place-items: center;
+}
