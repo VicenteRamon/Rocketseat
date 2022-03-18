@@ -1,0 +1,24 @@
+[33mcommit c66a10349576f1fc728b7ee493a3a347290a1e3f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 1a999e6 a4b9c5c
+Author: Ramon Vicente <vicente.silva.ramon@gmail.com>
+Date:   Tue Mar 15 15:14:48 2022 -0300
+
+    Merge branch 'master' of https://github.com/VicenteRamon/Rocketseat
+
+[33mcommit 1a999e638d20bad0171ad2f46c3eaa09f4619656[m
+Author: Ramon Vicente <vicente.silva.ramon@gmail.com>
+Date:   Tue Mar 15 15:14:31 2022 -0300
+
+    segundo commit
+
+[33mcommit a4b9c5cf57aea5a3876c1137d6b3115bb3883947[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: VicenteRamon <97611971+VicenteRamon@users.noreply.github.com>
+Date:   Tue Mar 15 11:10:20 2022 -0300
+
+    README.md adicionado
+
+[33mcommit 07353f64c24eb4ef9f8fd80faa0b95ddc3e4eb88[m
+Author: Ramon Vicente <vicente.silva.ramon@gmail.com>
+Date:   Tue Mar 15 11:03:12 2022 -0300
+
+    commit inicial
