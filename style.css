@@ -1,13 +1,19 @@
-h1 {
-  font-size: 1, 5rem;
-  font-color: red;
-  /* cascating style sheet*/
-}
-html,
-body {
-  height: 100%;
-}
-body {
+
+/* cascating style sheet*/
+
+
+body{
   display: grid;
   place-items: center;
+}
+
+main {
+  background: url(images/Background.svg) ;
+  width: 375px; 
+  height: 812px; 
+}
+
+.container{
+  max-width: 250px;
+  margin: auto;
 }
