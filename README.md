@@ -1,2 +1,2 @@
 # Rocketseat
-Curso rocketseat
+Pequeno cracha feito durante uma aula na Rocketseat
